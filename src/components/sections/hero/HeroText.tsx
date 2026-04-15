@@ -41,7 +41,7 @@ export default function HeroText() {
         variants={itemVariants}
         className="text-lg md:text-xl text-gray-400 mb-8 max-w-2xl leading-relaxed"
       >
-        Full Stack Developer specializing in scalable backend systems using Laravel and NestJS, and modern frontend applications using Next.js.
+        Full Stack Developer specializing in scalable backend systems using MERN, SpringBoot, Laravel, and modern frontend applications using Next.js.
       </motion.p>
 
       <motion.div variants={itemVariants} className="flex flex-wrap items-center justify-center md:justify-start gap-4">

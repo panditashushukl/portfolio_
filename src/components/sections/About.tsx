@@ -20,7 +20,7 @@ export default function About() {
         </h2>
 
         <p className="text-gray-300 text-lg md:text-xl leading-relaxed relative z-10 font-light">
-          I design and build <strong className="font-semibold text-white">scalable backend systems</strong> using Laravel, NestJS and MERN,
+          I design and build <strong className="font-semibold text-white">scalable backend systems</strong> using SpringBoot, MERN, and Laravel,
           and develop <strong className="font-semibold text-white">modern, high-performance frontend applications</strong> using Next.js.
           I focus on writing clean, maintainable code and building real-world solutions that make an impact.
         </p>
