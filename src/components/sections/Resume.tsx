@@ -50,7 +50,7 @@ export default function Resume() {
               <div className="text-blue-400 font-medium mb-3">2024 - 2026</div>
               <p className="text-gray-300 mb-2">Institute of Engineering and Technology, Lucknow, UP</p>
               <div className="inline-block mt-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-sm font-semibold">
-                GPA: <span className="text-white">9.05 / 10.00</span>
+                GPA: <span className="text-white">8.86 / 10.00</span>
               </div>
             </div>
           </div>

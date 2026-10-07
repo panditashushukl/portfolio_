@@ -1,4 +1,4 @@
 export const skills = [
-    "Next.js", "SpringBoot", "MERN Stack", "Tailwind CSS", "Laravel",
-    "FastApi", "Machine Learning", "Linux", "Git", "Bash", "Docker"
+    "Next.js", "SpringBoot", "FastApi", "Agentic Ai Automation", 
+    "Linux", "Git", "Bash", "Docker"
   ]

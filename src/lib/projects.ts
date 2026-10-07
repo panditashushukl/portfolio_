@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "ShopSphere",
+    description:
+      "Added an Agentic AI that can automate the shopping Related Tasks",
+    tech: ["Next.js", "FastApi", "PostgreSQL", "LangGraph/LangChain", "RAG"],
+    features: ["AI Automation", "List and Purchase Products", "Order Placement and Purchase"],
+    github: "https://github.com/panditashushukl/ShopSphere",
+    live: "https://shop-sphere-nine-omega.vercel.app"
+  },
+  {
     title: "Samajik World",
     description:
       "Developed a full-stack Video Sharing and Micoblogging Platform using the MERN stack, to understand realworld Prospective of modern websites.",
